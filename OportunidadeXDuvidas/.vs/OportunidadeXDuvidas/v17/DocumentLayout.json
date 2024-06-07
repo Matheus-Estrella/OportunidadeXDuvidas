@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7726D0B4-51C4-44D3-A8E0-DA0F31890342}|OportunidadeXDuvidas\\OportunidadeXDuvidas.csproj|c:\\users\\matheus\\trabalhosestagio\\oportunidadexduvida\\oportunidadexduvidas\\oportunidadexduvidas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7726D0B4-51C4-44D3-A8E0-DA0F31890342}|OportunidadeXDuvidas\\OportunidadeXDuvidas.csproj|solutionrelative:oportunidadexduvidas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9B60D2-FCC2-427C-B2FC-044EE1B522E5}|Models\\Models.csproj|c:\\users\\matheus\\trabalhosestagio\\oportunidadexduvida\\oportunidadexduvidas\\models\\oportunidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9B60D2-FCC2-427C-B2FC-044EE1B522E5}|Models\\Models.csproj|solutionrelative:models\\oportunidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9B60D2-FCC2-427C-B2FC-044EE1B522E5}|Models\\Models.csproj|c:\\users\\matheus\\trabalhosestagio\\oportunidadexduvida\\oportunidadexduvidas\\models\\duvidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9B60D2-FCC2-427C-B2FC-044EE1B522E5}|Models\\Models.csproj|solutionrelative:models\\duvidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310AE24C-C4D8-4176-B52E-C94CBD09F57D}|APIDuvidas\\APIDuvidas.csproj|c:\\users\\matheus\\trabalhosestagio\\oportunidadexduvida\\oportunidadexduvidas\\apiduvidas\\controllers\\duvidascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310AE24C-C4D8-4176-B52E-C94CBD09F57D}|APIDuvidas\\APIDuvidas.csproj|solutionrelative:apiduvidas\\controllers\\duvidascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3033217E-D62B-43C5-ACDD-C401C0D0268D}|API_Oportunidades\\API_Oportunidades.csproj|c:\\users\\matheus\\trabalhosestagio\\oportunidadexduvida\\oportunidadexduvidas\\api_oportunidades\\controllers\\oportunidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3033217E-D62B-43C5-ACDD-C401C0D0268D}|API_Oportunidades\\API_Oportunidades.csproj|solutionrelative:api_oportunidades\\controllers\\oportunidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9B60D2-FCC2-427C-B2FC-044EE1B522E5}|Models\\Models.csproj|c:\\users\\matheus\\trabalhosestagio\\oportunidadexduvida\\oportunidadexduvidas\\models\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0F9B60D2-FCC2-427C-B2FC-044EE1B522E5}|Models\\Models.csproj|solutionrelative:models\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DuvidasController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\APIDuvidas\\Controllers\\DuvidasController.cs",
+              "RelativeDocumentMoniker": "APIDuvidas\\Controllers\\DuvidasController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\APIDuvidas\\Controllers\\DuvidasController.cs",
+              "RelativeToolTip": "APIDuvidas\\Controllers\\DuvidasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:23:36.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OportunidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\API_Oportunidades\\Controllers\\OportunidadesController.cs",
+              "RelativeDocumentMoniker": "API_Oportunidades\\Controllers\\OportunidadesController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\API_Oportunidades\\Controllers\\OportunidadesController.cs",
+              "RelativeToolTip": "API_Oportunidades\\Controllers\\OportunidadesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:20:42.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\Models\\App.config",
+              "RelativeDocumentMoniker": "Models\\App.config",
+              "ToolTip": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\Models\\App.config",
+              "RelativeToolTip": "Models\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T19:15:45.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Duvidas.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\Models\\Duvidas.cs",
+              "RelativeDocumentMoniker": "Models\\Duvidas.cs",
+              "ToolTip": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\Models\\Duvidas.cs",
+              "RelativeToolTip": "Models\\Duvidas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:41:13.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Oportunidade.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\Models\\Oportunidade.cs",
+              "RelativeDocumentMoniker": "Models\\Oportunidade.cs",
+              "ToolTip": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\Models\\Oportunidade.cs",
+              "RelativeToolTip": "Models\\Oportunidade.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:40:50.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\OportunidadeXDuvidas\\Program.cs",
+              "RelativeDocumentMoniker": "OportunidadeXDuvidas\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\OportunidadeXDuvidas\\Program.cs",
+              "RelativeToolTip": "OportunidadeXDuvidas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:40:17.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
