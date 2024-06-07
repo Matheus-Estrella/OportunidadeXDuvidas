@@ -2,4 +2,4 @@
 
 Console.WriteLine("Bem vindo a um mundo de oportunidades");
 
-// add-migration OportunidadesXDuvidas
+// update-databaseXDuvidas

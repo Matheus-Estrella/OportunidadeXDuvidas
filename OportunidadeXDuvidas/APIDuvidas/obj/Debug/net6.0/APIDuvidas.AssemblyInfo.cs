@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIDuvidas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbddb39928d8fc7ed9c63a68bdf09dc64507321e")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIDuvidas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIDuvidas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

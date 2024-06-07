@@ -250,3 +250,4 @@ C:\Users\Matheus\TrabalhosEstagio\OportunidadeXDuvida\OportunidadeXDuvidas\APIDu
 C:\Users\Matheus\TrabalhosEstagio\OportunidadeXDuvida\OportunidadeXDuvidas\APIDuvidas\obj\Debug\net6.0\APIDuvidas.genruntimeconfig.cache
 C:\Users\Matheus\TrabalhosEstagio\OportunidadeXDuvida\OportunidadeXDuvidas\APIDuvidas\obj\Debug\net6.0\ref\APIDuvidas.dll
 C:\Users\Matheus\TrabalhosEstagio\OportunidadeXDuvida\OportunidadeXDuvidas\APIDuvidas\bin\Debug\net6.0\Models.dll.config
+C:\Users\Matheus\TrabalhosEstagio\OportunidadeXDuvida\OportunidadeXDuvidas\APIDuvidas\obj\Debug\net6.0\APIDuvidas.sourcelink.json

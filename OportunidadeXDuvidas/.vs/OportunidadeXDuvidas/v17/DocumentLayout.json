@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{7726D0B4-51C4-44D3-A8E0-DA0F31890342}|OportunidadeXDuvidas\\OportunidadeXDuvidas.csproj|solutionrelative:oportunidadexduvidas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3033217E-D62B-43C5-ACDD-C401C0D0268D}|API_Oportunidades\\API_Oportunidades.csproj|c:\\users\\matheus\\trabalhosestagio\\oportunidadexduvida\\oportunidadexduvidas\\api_oportunidades\\controllers\\oportunidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3033217E-D62B-43C5-ACDD-C401C0D0268D}|API_Oportunidades\\API_Oportunidades.csproj|solutionrelative:api_oportunidades\\controllers\\oportunidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F9B60D2-FCC2-427C-B2FC-044EE1B522E5}|Models\\Models.csproj|c:\\users\\matheus\\trabalhosestagio\\oportunidadexduvida\\oportunidadexduvidas\\models\\oportunidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F9B60D2-FCC2-427C-B2FC-044EE1B522E5}|Models\\Models.csproj|solutionrelative:models\\oportunidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{310AE24C-C4D8-4176-B52E-C94CBD09F57D}|APIDuvidas\\APIDuvidas.csproj|c:\\users\\matheus\\trabalhosestagio\\oportunidadexduvida\\oportunidadexduvidas\\apiduvidas\\controllers\\duvidascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{310AE24C-C4D8-4176-B52E-C94CBD09F57D}|APIDuvidas\\APIDuvidas.csproj|solutionrelative:apiduvidas\\controllers\\duvidascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3033217E-D62B-43C5-ACDD-C401C0D0268D}|API_Oportunidades\\API_Oportunidades.csproj|c:\\users\\matheus\\trabalhosestagio\\oportunidadexduvida\\oportunidadexduvidas\\api_oportunidades\\controllers\\oportunidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3033217E-D62B-43C5-ACDD-C401C0D0268D}|API_Oportunidades\\API_Oportunidades.csproj|solutionrelative:api_oportunidades\\controllers\\oportunidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F9B60D2-FCC2-427C-B2FC-044EE1B522E5}|Models\\Models.csproj|c:\\users\\matheus\\trabalhosestagio\\oportunidadexduvida\\oportunidadexduvidas\\models\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DuvidasController.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\APIDuvidas\\Controllers\\DuvidasController.cs",
               "RelativeDocumentMoniker": "APIDuvidas\\Controllers\\DuvidasController.cs",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "OportunidadesController.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\API_Oportunidades\\Controllers\\OportunidadesController.cs",
               "RelativeDocumentMoniker": "API_Oportunidades\\Controllers\\OportunidadesController.cs",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Duvidas.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\Models\\Duvidas.cs",
               "RelativeDocumentMoniker": "Models\\Duvidas.cs",
@@ -98,13 +98,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Oportunidade.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\Models\\Oportunidade.cs",
               "RelativeDocumentMoniker": "Models\\Oportunidade.cs",
               "ToolTip": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\Models\\Oportunidade.cs",
               "RelativeToolTip": "Models\\Oportunidade.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T18:40:50.082Z",
               "EditorCaption": ""
@@ -117,7 +117,7 @@
               "RelativeDocumentMoniker": "OportunidadeXDuvidas\\Program.cs",
               "ToolTip": "C:\\Users\\Matheus\\TrabalhosEstagio\\OportunidadeXDuvida\\OportunidadeXDuvidas\\OportunidadeXDuvidas\\Program.cs",
               "RelativeToolTip": "OportunidadeXDuvidas\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T18:40:17.422Z",
               "EditorCaption": ""
